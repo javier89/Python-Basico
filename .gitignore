@@ -1,0 +1,24 @@
+# Archivos y directorios de sistema
+.DS_Store
+Desktop.ini
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Variables de entorno
+.env
+env/*
+
+# Directorios de instalacion y cache
+node_modules
+.sass-cache
+
+# Configuracion de editor
+# VisualStudioCode
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
